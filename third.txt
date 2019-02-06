@@ -3,3 +3,4 @@ what if I add a file without pushing?
 (but i commited before). 
 
 
+Aga, so if I make changes here but not push my Head and origin are quite apart. 
