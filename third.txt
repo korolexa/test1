@@ -4,3 +4,6 @@ what if I add a file without pushing?
 
 
 Aga, so if I make changes here but not push my Head and origin are quite apart. 
+
+
+making some changes in credentials use
