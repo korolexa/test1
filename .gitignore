@@ -1,0 +1,4 @@
+# the list of ignored files.
+# just direct list without any masks for now
+
+tst_credentials.txt
